@@ -1,0 +1,97 @@
+SHEET- 1
+Pattern Based Questions
+Q.1 Write a Program to print the right triangle star pattern.
+*
+**
+***
+****
+*****
+
+Q.2 Write a Program to print mirrored right triangle star pattern.
+    *
+   **
+  ***
+ ****
+*****
+
+Q.3 Write a Program to print inverted half pyramid star pattern.
+*****
+ ****
+  ***
+   **
+    *
+
+Q.4 Write a Program to print the Full Pyramid Star pattern.
+    *  
+   * * 
+  * * *
+ * * * *
+* * * * *
+
+
+
+
+
+
+Q.5 Write a program to Print a solid Diamond Star Pattern.
+     *      
+    * *     
+   * * *    
+  * * * *   
+ * * * * *  
+* * * * * * 
+ * * * * *  
+  * * * *   
+   * * *    
+    * *
+     *
+Q.6 Write a Program to print the Full Pyramid Number Pattern.
+    1
+   321
+  54321
+ 7654321
+987654321
+
+Q.7 Write a Program to print the Solid Half Diamond Number Pattern.	
+5
+54
+543
+5432
+54321
+543210
+54321
+5432
+543
+54
+5
+Q.8 Write a Program to Print the Hollow Diamond Number Pattern.
+    1    
+   2 2
+  3   3
+ 4     4
+5       5
+ 4     4
+  3   3
+   2 2
+    1
+
+Q.9 Write a Program to Print the V Shape Alphabet Pattern.
+
+E       E 
+ D     D
+  C   C
+   B B
+    A  
+
+Q.10 Write a Program to Print Cross Sign (? ) Number Pattern.
+
+1   1
+ 2 2
+  3
+ 4 4
+5   5
+
+
+
+
+
