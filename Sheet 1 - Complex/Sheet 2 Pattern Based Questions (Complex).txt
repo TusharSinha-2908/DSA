@@ -1,0 +1,54 @@
+SHEET-2
+Pattern Based Questions
+Q.1 Write a Program to print a butterfly shape Number pattern.
+1     7
+12   67
+123 567
+1234567
+123 567
+12   67
+1     7
+
+Q.2 Write a Program to print the Fibonacci Half Pyramid Pattern.
+1 
+1 2
+3 5 8
+13 21 34 55
+89 144 233 377 610
+
+Q.3 Pascal’s triangle is a triangular array of the binomial coefficients. Write a function that takes an integer value n as input and prints first n lines of the Pascal’s triangle. Following are the first 6 rows of Pascal’s Triangle.
+1  
+1 1 
+1 2 1 
+1 3 3 1 
+1 4 6 4 1 
+1 5 10 10 5 1
+
+
+
+
+Q.4 Given the value of n, print the arrow pattern. 
+Input: n = 5
+Output: 
+ *
+  **
+   ***
+    ****
+     *****
+    ****
+   ***
+  **
+ *
+
+Q.5 Program to print diagonal star patterns. 
+For the given input, this program prints the following pattern. The input must be an odd number.
+Input: 7
+Output:
+
+    *******
+    **   **
+    * * * *
+    *  *  *
+    * * * *
+    **   **
+    *******
